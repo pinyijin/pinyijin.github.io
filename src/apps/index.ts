@@ -13,8 +13,9 @@ import { wc } from './wc';
 import { clear } from './clear';
 import { exit } from './exit';
 import { whoami } from './whoami';
+import { two } from './two';
 
 /** Built-in /bin command set. Register more apps here — that's the only wiring. */
 export const builtinApps: Command[] = [
-  ls, cat, head, tail, grep, find, tree, more, less, cd, pwd, wc, clear, exit, whoami,
+  ls, cat, head, tail, grep, find, tree, more, less, cd, pwd, wc, clear, exit, whoami, two,
 ];
