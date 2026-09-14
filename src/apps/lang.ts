@@ -2,7 +2,7 @@ import type { Command } from '../shell/types';
 
 export const lang: Command = {
   name: 'lang',
-  description: 'Toggle Chinese / English interface preference',
+  description: 'Toggle interface language preference',
   run(ctx, argv) {
     const requested = argv[1]?.toLowerCase();
     const current = localStorage.getItem('alden-lang') ?? 'en';
