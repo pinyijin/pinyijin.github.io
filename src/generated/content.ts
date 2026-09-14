@@ -22,7 +22,7 @@ export const manifest: Manifest = {
     {
       "slug": "contact",
       "title": "Contact",
-      "body": "# Contact\n\n- Email: 2021302051141@whu.edu.cn\n- GitHub: [pinyijin](https://github.com/pinyijin)",
+      "body": "# Contact\n\n- Email: PINYI002@e.ntu.edu.sg\n- GitHub: [pinyijin](https://github.com/pinyijin)",
       "path": "contact.md",
       "kind": "page",
       "apps": []
@@ -38,8 +38,16 @@ export const manifest: Manifest = {
     {
       "slug": "index",
       "title": "Pinyi Jin · Independent Researcher",
-      "body": "# Pinyi Jin · Independent Researcher\n\n```plain\n╔══════════════════════════════════════╗\n║        P I N Y I   J I N             ║\n║      research · code · 修仙           ║\n╚══════════════════════════════════════╝\n```\n\n**Independent Researcher** · Computer Science · Wuhan University\n\n> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🧘 [修仙](#cultivation) · 🛠 [Skills](#skills) · ✉ [Contact](#contact)\n\nI explore intelligent systems, build useful software, and practice the long journey of 修仙.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `cultivation`, `help`.\n\nLast update: Mon Sep 14 2026",
+      "body": "# Pinyi Jin · Independent Researcher\n\n```plain\n╔══════════════════════════════════════╗\n║        P I N Y I   J I N             ║\n║      research · code · 修仙           ║\n╚══════════════════════════════════════╝\n```\n\n**Independent Researcher** · Computer Science · Wuhan University\n\n> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · 🧘 [修仙](#cultivation) · 🛠 [Skills](#skills) · ✉ [Contact](#contact)\n\nI explore intelligent systems, build useful software, and practice the long journey of 修仙.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `lang`, `help`.\n\nLast update: Mon Sep 14 2026",
       "path": "index.md",
+      "kind": "page",
+      "apps": []
+    },
+    {
+      "slug": "one_heart",
+      "title": "One Heart",
+      "body": "# One Heart\n\n**One Heart V2** is a philosophical and speculative work about identity,\nconsciousness, simulation, memory, and the laws that converge into one.\n\nVersion 2 · January 2026 · Purely fictional.\n\nUse `works` to return to the works catalogue.",
+      "path": "one_heart.md",
       "kind": "page",
       "apps": []
     },
@@ -72,6 +80,14 @@ export const manifest: Manifest = {
       "title": "Experience",
       "body": "# Experience\n\n## Hubei Fengyuan · Embodied AI\n\nHead of Embodied AI Department · Apr 2026 – Jul 2026\n\n- Built an end-to-end software stack for data collection, processing, training, and inference deployment.\n- Completed real-robot fine-tuning and inference for pi0.5 and NVIDIA GROOT N1.5.\n\n## Intelligent Manufacturing Lab · ESTUN Automation\n\nAlgorithm Engineer Mentee · Nov 2025 – Apr 2026\n\n## Wuhan University MARS Lab\n\nResearch Assistant / Co-author · Jun 2024 – Jun 2025\n\n- Studied model heterogeneity in Federated Graph Learning.\n- Reproduced and benchmarked seven state-of-the-art baselines with PyTorch.\n\n## Wuhan University CSTAR Group\n\nResearch Intern · Mar 2023 – Oct 2023\n\n- Investigated static program analysis and software fault localization.",
       "path": "team.md",
+      "kind": "page",
+      "apps": []
+    },
+    {
+      "slug": "works",
+      "title": "Works",
+      "body": "# Works\n\n## One Heart\n\nCommand: `one_heart`\n\n**One Heart** is a philosophical and speculative work about identity,\nconsciousness, simulation, memory, and the laws that converge into one.\n\nVersion 2 · January 2026 · Purely fictional.\n\nThe original PDF is part of the author's work archive.",
+      "path": "works.md",
       "kind": "page",
       "apps": []
     }

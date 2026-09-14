@@ -2,6 +2,8 @@
 
 ## One Heart
 
+Command: `one_heart`
+
 **One Heart** is a philosophical and speculative work about identity,
 consciousness, simulation, memory, and the laws that converge into one.
 
