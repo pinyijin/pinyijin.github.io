@@ -6,7 +6,7 @@ export const manifest: Manifest = {
     {
       "slug": "bio",
       "title": "About",
-      "body": "# About\n\nI am **Pinyi Jin**, a technology researcher and independent explorer with a background in computer science.\n\nMy work spans embodied AI, federated learning, graph neural networks, and software reliability. I move between research ideas and systems that can be built, measured, and used.",
+      "body": "# About\n\nI am **Alden Jin**, an independent researcher with a background in computer science.\n\nMy work spans embodied AI, traditional large language models, and software reliability. I turn difficult ideas into working systems, then carry them beyond the lab.\n\nTWO IS PHILOSOPHY.",
       "path": "bio.md",
       "kind": "page",
       "apps": []
@@ -38,7 +38,7 @@ export const manifest: Manifest = {
     {
       "slug": "index",
       "title": "Alden Jin",
-      "body": "# Alden Jin\n\n```plain\n╔══════════════════════════════════════╗\n║        P I N Y I   J I N             ║\n║      research · code · 修仙           ║\n╚══════════════════════════════════════╝\n```\n\n**Alden Jin · Independent Researcher**\n\n> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · ☯ [Tao](#tao) · 🌿 [Hobbies](#hobbies) · ✉ [Contact](#contact)\n\nI turn difficult ideas into working systems, then carry them beyond the lab.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `222`, `help`.\n\nLast update: Mon Sep 14 2026",
+      "body": "# Alden Jin\n\n```plain\n ▄▀█ █   █▀▄ █▀▀ █▄ █   ░░█ █ █▄ █\n █▀█ █▄▄ █▄▀ ██▄ █ ▀█   █▄█ █ █ ▀█\n```\n\n**Alden Jin · Independent Researcher**\n\n> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · ☯ [Tao](#tao) · 🌿 [Hobbies](#hobbies) · ✉ [Contact](#contact)\n\nI turn difficult ideas into working systems, then carry them beyond the lab.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `222`, `help`.\n\nTWO IS PHILOSOPHY.\n\nLast update: Tue Sep 15 2026",
       "path": "index.md",
       "kind": "page",
       "apps": []
@@ -46,7 +46,7 @@ export const manifest: Manifest = {
     {
       "slug": "one_heart",
       "title": "One Heart",
-      "body": "# One Heart\n\n**One Heart V2** is a philosophical and speculative work about identity,\nconsciousness, simulation, memory, and the laws that converge into one.\n\nVersion 2 · January 2026 · Purely fictional.\n\nUse `works` to return to the works catalogue.",
+      "body": "# One Heart\n\n**One Heart V2** is a philosophical and speculative work about identity,\nconsciousness, simulation, memory, and the laws that converge into one.\n\nVersion 2 · January 2026 · Purely fictional.\n\n[Download One Heart](#download_one_heart) — enter the author's birthday when prompted.\n\nUse `works` to return to the works catalogue.",
       "path": "one_heart.md",
       "kind": "page",
       "apps": []

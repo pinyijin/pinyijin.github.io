@@ -1,10 +1,8 @@
 # Alden Jin
 
 ```plain
-╔══════════════════════════════════════╗
-║        P I N Y I   J I N             ║
-║      research · code · 修仙           ║
-╚══════════════════════════════════════╝
+ ▄▀█ █   █▀▄ █▀▀ █▄ █   ░░█ █ █▄ █
+ █▀█ █▄▄ █▄▀ ██▄ █ ▀█   █▄█ █ █ ▀█
 ```
 
 **Alden Jin · Independent Researcher**
@@ -16,4 +14,6 @@ I turn difficult ideas into working systems, then carry them beyond the lab.
 
 - This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `222`, `help`.
 
-Last update: {{ displayDate(2026, 9, 14) }}
+TWO IS PHILOSOPHY.
+
+Last update: {{ displayDate(2026, 9, 15) }}

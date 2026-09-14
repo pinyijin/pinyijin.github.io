@@ -1,5 +1,7 @@
 # About
 
-I am **Pinyi Jin**, a technology researcher and independent explorer with a background in computer science.
+I am **Alden Jin**, an independent researcher with a background in computer science.
 
-My work spans embodied AI, federated learning, graph neural networks, and software reliability. I move between research ideas and systems that can be built, measured, and used.
+My work spans embodied AI, traditional large language models, and software reliability. I turn difficult ideas into working systems, then carry them beyond the lab.
+
+TWO IS PHILOSOPHY.
