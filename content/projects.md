@@ -4,9 +4,9 @@
 
 End-to-end infrastructure for data collection, processing, training, and deployment on real robots.
 
-## Model-Heterogeneous Federated Graph Learning
+## Traditional Large Language Models
 
-Experimental research for robust federated graph learning under heterogeneous models and non-IID data.
+Exploring the foundations, behavior, and practical systems surrounding traditional large language models.
 
 ## Software Reliability
 

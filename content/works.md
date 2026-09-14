@@ -2,7 +2,7 @@
 
 ## One Heart
 
-Command: `one_heart`
+Commands: `one_heart` to read · `download_one_heart` to download after author verification.
 
 **One Heart** is a philosophical and speculative work about identity,
 consciousness, simulation, memory, and the laws that converge into one.

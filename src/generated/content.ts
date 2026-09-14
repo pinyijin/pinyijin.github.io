@@ -37,8 +37,8 @@ export const manifest: Manifest = {
     },
     {
       "slug": "index",
-      "title": "Pinyi Jin",
-      "body": "# Pinyi Jin\n\n```plain\n╔══════════════════════════════════════╗\n║        P I N Y I   J I N             ║\n║      research · code · 修仙           ║\n╚══════════════════════════════════════╝\n```\n\n**Technology Researcher · Independent Researcher**\n\n> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · ☯ [Tao](#tao) · 🌿 [Hobbies](#hobbies) · ✉ [Contact](#contact)\n\nI build intelligent systems, study technology, and follow the long path of Tao.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `help`.\n\nLast update: Mon Sep 14 2026",
+      "title": "Alden Jin",
+      "body": "# Alden Jin\n\n```plain\n╔══════════════════════════════════════╗\n║        P I N Y I   J I N             ║\n║      research · code · 修仙           ║\n╚══════════════════════════════════════╝\n```\n\n**Alden Jin · Independent Researcher**\n\n> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · ☯ [Tao](#tao) · 🌿 [Hobbies](#hobbies) · ✉ [Contact](#contact)\n\nI turn difficult ideas into working systems, then carry them beyond the lab.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `222`, `help`.\n\nLast update: Mon Sep 14 2026",
       "path": "index.md",
       "kind": "page",
       "apps": []
@@ -62,7 +62,7 @@ export const manifest: Manifest = {
     {
       "slug": "projects",
       "title": "Projects",
-      "body": "# Projects\n\n## Embodied AI Systems\n\nEnd-to-end infrastructure for data collection, processing, training, and deployment on real robots.\n\n## Model-Heterogeneous Federated Graph Learning\n\nExperimental research for robust federated graph learning under heterogeneous models and non-IID data.\n\n## Software Reliability\n\nStatic analysis and fault localization for understanding and improving complex software systems.",
+      "body": "# Projects\n\n## Embodied AI Systems\n\nEnd-to-end infrastructure for data collection, processing, training, and deployment on real robots.\n\n## Traditional Large Language Models\n\nExploring the foundations, behavior, and practical systems surrounding traditional large language models.\n\n## Software Reliability\n\nStatic analysis and fault localization for understanding and improving complex software systems.",
       "path": "projects.md",
       "kind": "page",
       "apps": []
@@ -78,7 +78,7 @@ export const manifest: Manifest = {
     {
       "slug": "tao",
       "title": "Tao",
-      "body": "# Tao\n\nTao is the quiet discipline of attention, judgment, and capability cultivated through long practice.",
+      "body": "# Tao\n\nTao is the quiet discipline of attention, judgment, and capability cultivated through long practice.\n\n> 道可道，非常道；名可名，非常名。\n>\n> 上善若水。水善利万物而不争。",
       "path": "tao.md",
       "kind": "page",
       "apps": []
@@ -94,7 +94,7 @@ export const manifest: Manifest = {
     {
       "slug": "works",
       "title": "Works",
-      "body": "# Works\n\n## One Heart\n\nCommand: `one_heart`\n\n**One Heart** is a philosophical and speculative work about identity,\nconsciousness, simulation, memory, and the laws that converge into one.\n\nVersion 2 · January 2026 · Purely fictional.\n\nThe original PDF is part of the author's work archive.",
+      "body": "# Works\n\n## One Heart\n\nCommands: `one_heart` to read · `download_one_heart` to download after author verification.\n\n**One Heart** is a philosophical and speculative work about identity,\nconsciousness, simulation, memory, and the laws that converge into one.\n\nVersion 2 · January 2026 · Purely fictional.\n\nThe original PDF is part of the author's work archive.",
       "path": "works.md",
       "kind": "page",
       "apps": []
