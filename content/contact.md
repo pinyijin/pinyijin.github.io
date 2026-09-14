@@ -1,4 +1,4 @@
 # Contact
 
-- Email: 2021302051141@whu.edu.cn
+- Email: PINYI002@e.ntu.edu.sg
 - GitHub: [pinyijin](https://github.com/pinyijin)
