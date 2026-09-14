@@ -62,7 +62,7 @@ export const manifest: Manifest = {
     {
       "slug": "projects",
       "title": "Projects",
-      "body": "# Projects\n\n## Embodied AI Systems\n\nEnd-to-end infrastructure for data collection, processing, training, and deployment on real robots.\n\n## Traditional Large Language Models\n\nExploring the foundations, behavior, and practical systems surrounding traditional large language models.\n\n## Software Reliability\n\nStatic analysis and fault localization for understanding and improving complex software systems.",
+      "body": "# Projects\n\n## Embodied AI Systems\n\nEnd-to-end infrastructure for data collection, processing, training, and deployment on real robots.\n\n## Large Language Models\n\nExploring the foundations, behavior, and practical systems surrounding traditional large language models.\n\n## Software Reliability\n\nStatic analysis and fault localization for understanding and improving complex software systems.",
       "path": "projects.md",
       "kind": "page",
       "apps": []
@@ -78,7 +78,7 @@ export const manifest: Manifest = {
     {
       "slug": "tao",
       "title": "Tao",
-      "body": "# Tao\n\nTao is the quiet discipline of attention, judgment, and capability cultivated through long practice.\n\n> 道可道，非常道；名可名，非常名。\n>\n> 上善若水。水善利万物而不争。",
+      "body": "# Tao\n\nTao is the quiet discipline of attention, judgment, and capability cultivated through long practice.\n\n> 大音希声，大象无形。\n>\n> 为学日益，为道日损。\n>\n> 知者不言，言者不知。",
       "path": "tao.md",
       "kind": "page",
       "apps": []

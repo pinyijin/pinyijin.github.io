@@ -2,6 +2,8 @@
 
 Tao is the quiet discipline of attention, judgment, and capability cultivated through long practice.
 
-> 道可道，非常道；名可名，非常名。
+> 大音希声，大象无形。
 >
-> 上善若水。水善利万物而不争。
+> 为学日益，为道日损。
+>
+> 知者不言，言者不知。
