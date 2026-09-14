@@ -13,9 +13,17 @@ export const manifest: Manifest = {
     },
     {
       "slug": "bio",
-      "title": "About",
-      "body": "# About\n\nI am Pinyi Jin, an independent researcher with a B.Eng. in Computer Science and Technology from Wuhan University (2021–2025).\n\nMy work has included embodied AI, federated learning, graph neural networks, and software reliability. I enjoy moving from research ideas to systems that can be implemented, measured, and used.\n\nMy current research direction is **修仙**: cultivating attention, capability, and a durable way of learning through technical practice.",
+      "title": "About / 关于",
+      "body": "# About / 关于\n\n## English\n\nI am **Pinyi Jin**, also known as **金品一**, a technology researcher and independent explorer. My background is in computer science, with experience spanning embodied AI, federated learning, graph neural networks, and software reliability.\n\nI believe research should become something that can be built, measured, and lived with. My current direction is traditional-style cultivation: refining attention, judgment, and capability through long practice.\n\n## 中文\n\n我是**金品一**（Pinyi Jin），一名技术研究者，也是一名独立探索者。我的计算机科学背景覆盖具身智能、联邦学习、图神经网络与软件可靠性。\n\n我相信研究应当落到可以构建、测量和实践的事物上。当前的方向是传统仙侠式修行：在长期实践中磨练专注、判断与能力。",
       "path": "bio.md",
+      "kind": "page",
+      "apps": []
+    },
+    {
+      "slug": "chinese",
+      "title": "中文空间",
+      "body": "# 中文空间\n\n这里是金品一的中文主页入口。\n\n- `bio`：中英双版关于\n- `hobbies`：紫微斗数、羽毛球、健身\n- `cultivation`：传统仙侠式修行\n- `works`：作品集",
+      "path": "chinese.md",
       "kind": "page",
       "apps": []
     },
@@ -36,9 +44,17 @@ export const manifest: Manifest = {
       "apps": []
     },
     {
+      "slug": "hobbies",
+      "title": "兴趣 · Hobbies",
+      "body": "# 兴趣 · Hobbies\n\n- **紫微斗数 · Zi Wei Dou Shu** — 观察星曜、宫位与人生叙事。\n- **羽毛球 · Badminton** — 在步伐、节奏和反应中保持身体清醒。\n- **健身 · Fitness** — 用规律训练建立耐力与自律。",
+      "path": "hobbies.md",
+      "kind": "page",
+      "apps": []
+    },
+    {
       "slug": "index",
-      "title": "Pinyi Jin · Independent Researcher",
-      "body": "# Pinyi Jin · Independent Researcher\n\n```plain\n╔══════════════════════════════════════╗\n║        P I N Y I   J I N             ║\n║      research · code · 修仙           ║\n╚══════════════════════════════════════╝\n```\n\n**Independent Researcher** · Computer Science · Wuhan University\n\n> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · 🧘 [修仙](#cultivation) · 🛠 [Skills](#skills) · ✉ [Contact](#contact)\n\nI explore intelligent systems, build useful software, and practice the long journey of 修仙.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `lang`, `help`.\n\nLast update: Mon Sep 14 2026",
+      "title": "金品一 · Pinyi Jin",
+      "body": "# 金品一 · Pinyi Jin\n\n![作者头像](/avatar.jpg)\n\n```plain\n╔══════════════════════════════════════╗\n║        P I N Y I   J I N             ║\n║      research · code · 修仙           ║\n╚══════════════════════════════════════╝\n```\n\n**技术研究者 · Independent Researcher**\n\n> 👤 [About / 关于](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works / 作品](#works) · 🧘 [修仙](#cultivation) · 🌿 [兴趣](#hobbies) · ✉ [Contact](#contact)\n\nI explore intelligent systems, build useful software, and practice the long journey of 修仙.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `lang`, `help`.\n\nLast update: Mon Sep 14 2026",
       "path": "index.md",
       "kind": "page",
       "apps": []

@@ -1,4 +1,6 @@
-# Pinyi Jin · Independent Researcher
+# 金品一 · Pinyi Jin
+
+![作者头像](/avatar.jpg)
 
 ```plain
 ╔══════════════════════════════════════╗
@@ -7,10 +9,10 @@
 ╚══════════════════════════════════════╝
 ```
 
-**Independent Researcher** · Computer Science · Wuhan University
+**技术研究者 · Independent Researcher**
 
-> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)
-> 🎨 [Works](#works) · 🧘 [修仙](#cultivation) · 🛠 [Skills](#skills) · ✉ [Contact](#contact)
+> 👤 [About / 关于](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)
+> 🎨 [Works / 作品](#works) · 🧘 [修仙](#cultivation) · 🌿 [兴趣](#hobbies) · ✉ [Contact](#contact)
 
 I explore intelligent systems, build useful software, and practice the long journey of 修仙.
 
