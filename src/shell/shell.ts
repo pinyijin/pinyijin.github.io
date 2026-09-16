@@ -100,10 +100,18 @@ export class Shell {
   /** Run a command string exactly as if the user typed it (used by buttons). */
   inject(command: string): void {
     if (!this.resolveLine) return;
-    this.term.write(command + '\r\n');
+    this.buffer = command;
+    this.cursor = command.length;
+    this.redraw();
+    this.term.write('\r\n');
     const r = this.resolveLine;
     this.resolveLine = undefined;
     r(command);
+  }
+
+  input(data: string): void {
+    this.onData(data);
+    this.term.focus();
   }
 
   private readLine(): Promise<string> {

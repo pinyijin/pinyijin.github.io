@@ -29,6 +29,18 @@ for (const doc of store.all()) registry.register(docCommand(doc));
 
 shell = new Shell({ term, registry, store, initialCommand: initial });
 
+document.querySelectorAll<HTMLButtonElement>('[data-command]').forEach((button) => {
+  button.addEventListener('click', () => {
+    shell.inject(button.dataset.command!);
+    term.focus();
+  });
+});
+document.querySelectorAll<HTMLButtonElement>('[data-key]').forEach((button) => {
+  button.addEventListener('click', () => {
+    shell.input(button.dataset.key === 'history' ? '\x1b[A' : '\t');
+  });
+});
+
 // Back/Forward: run whatever page the history entry recorded.
 window.addEventListener('popstate', (e) => {
   const cmd = (e.state?.cmd as string | undefined) || commandFromHash() || 'index';

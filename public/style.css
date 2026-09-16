@@ -77,6 +77,36 @@ html, body {
 }
 #term-screen .xterm { height: 100%; }
 
+#app { height: 100dvh; }
+#term-host { display: flex; flex-direction: column; }
+#term-screen { flex: 1; min-height: 120px; height: auto; }
+.pixel-heading { flex: none; overflow: hidden; }
+.pixel-heading pre {
+  font: inherit;
+  font-size: clamp(12px, 2.2vw, 21px);
+  line-height: 1.2;
+  margin: 4px 0 22px;
+  animation: title-reveal 900ms steps(24, end) both;
+}
+@keyframes title-reveal {
+  from { clip-path: inset(0 100% 0 0); opacity: .25; }
+  to { clip-path: inset(0 0 0 0); opacity: 1; }
+}
+.input-tools { display: flex; align-items: center; justify-content: space-between; padding-top: 8px; }
+.prompt-hint { color: #81878d; font-size: 12px; }
+.signature { border-top: 1px solid var(--border); margin-top: 12px; padding-top: 12px; font-weight: 700; letter-spacing: .12em; font-size: clamp(14px, 2vw, 20px); }
+.mobile-nav, .mobile-keys { display: none; }
+@media (prefers-reduced-motion: reduce) {
+  .pixel-heading pre { animation: none; }
+}
+@media (max-width: 640px) {
+  .mobile-nav, .mobile-keys { display: flex; flex-wrap: wrap; gap: 4px; }
+  .mobile-nav { margin-bottom: 10px; }
+  .mobile-nav button, .mobile-keys button { min-height: 44px; padding: 6px 10px; border: 1px solid var(--border); color: var(--fg); background: var(--bg); font: inherit; font-size: 13px; }
+  .pixel-heading pre { margin-bottom: 10px; }
+  .signature { margin-top: 8px; padding-top: 8px; }
+}
+
 /* Enable OpenType ligatures consistently. Chrome doesn't enable them by
    default for this font while Safari does, so the italic 'll' (and
    programming ligatures like =>, ==) only showed in Safari. Maple Mono's
