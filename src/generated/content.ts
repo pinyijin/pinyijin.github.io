@@ -38,7 +38,7 @@ export const manifest: Manifest = {
     {
       "slug": "index",
       "title": "Independent Researcher",
-      "body": "> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · ☯ [Tao](#tao) · 🌿 [Hobbies](#hobbies) · ✉ [Contact](#contact)\n\n# Independent Researcher\n\nI turn difficult ideas into working systems, then carry them beyond the lab.\n\n# Tao enthusiast\n\nBuddhism at heart, Taoism in the bones, Confucianism in outward conduct.\n\nLast update: Wed Sep 16 2026\n\nThis page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `help`.",
+      "body": "> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · ☯ [Tao](#tao) · 🌿 [Hobbies](#hobbies) · ✉ [Contact](#contact)\n\n# Independent Researcher\n\nI turn difficult ideas into working systems, then carry them beyond the lab.\n\n# Tao enthusiast\n\nBuddhism at heart, Taoism in the bones, Confucianism in outward conduct.\n\n**TWO IS PHILOSOPHY.**\n\nLast update: Wed Sep 16 2026\n\nThis page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `help`.",
       "path": "index.md",
       "kind": "page",
       "apps": []

@@ -94,7 +94,6 @@ html, body {
 }
 .input-tools { display: flex; align-items: center; justify-content: space-between; padding-top: 8px; }
 .prompt-hint { color: #81878d; font-size: 12px; }
-.signature { flex: 0 0 auto; border-top: 2px solid var(--fg); margin-top: 16px; padding: 22px 0 10px; font-weight: 700; letter-spacing: .04em; font-size: clamp(23px, 4vw, 38px); line-height: 1.2; }
 #pixel-title { display: block; width: min(100%, 540px); height: auto; margin: 12px 0 24px; fill: currentColor; }
 #pixel-title rect { animation: pixel-pulse 6s ease-in-out infinite; }
 @keyframes pixel-pulse { 0%, 35%, 100% { opacity: 1; } 55% { opacity: .3; } }
@@ -108,7 +107,6 @@ html, body {
   .mobile-nav { margin-bottom: 10px; }
   .mobile-nav button, .mobile-keys button { min-height: 44px; padding: 6px 10px; border: 1px solid var(--border); color: var(--fg); background: var(--bg); font: inherit; font-size: 13px; }
   .pixel-heading pre { margin-bottom: 10px; }
-  .signature { margin-top: 8px; padding-top: 8px; }
 }
 
 /* Enable OpenType ligatures consistently. Chrome doesn't enable them by
