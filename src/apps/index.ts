@@ -16,8 +16,9 @@ import { whoami } from './whoami';
 import { two } from './two';
 import { lang } from './lang';
 import { oneHeartDownload } from './oneHeart';
+import { pinyi } from './pinyi';
 
 /** Built-in /bin command set. Register more apps here — that's the only wiring. */
 export const builtinApps: Command[] = [
-  ls, cat, head, tail, grep, find, tree, more, less, cd, pwd, wc, clear, exit, whoami, two, lang, oneHeartDownload,
+  ls, cat, head, tail, grep, find, tree, more, less, cd, pwd, wc, clear, exit, whoami, two, lang, oneHeartDownload, pinyi,
 ];

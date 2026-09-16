@@ -12,8 +12,17 @@
 
 I turn difficult ideas into working systems, then carry them beyond the lab.
 
+## Author
+
+Alden Jin — independent researcher and Tao enthusiast.
+
+## Easter Eggs
+
+- `pinyi` — a photograph from childhood.
+- `222` — TWO IS PHILOSOPHY.
+
 - This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `222`, `help`.
 
 TWO IS PHILOSOPHY.
 
-Last update: {{ displayDate(2026, 9, 15) }}
+Last update: {{ displayDate(2026, 9, 16) }}

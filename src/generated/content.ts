@@ -38,7 +38,7 @@ export const manifest: Manifest = {
     {
       "slug": "index",
       "title": "Alden Jin",
-      "body": "# Alden Jin\n\n```plain\n ▄▀█ █   █▀▄ █▀▀ █▄ █   ░░█ █ █▄ █\n █▀█ █▄▄ █▄▀ ██▄ █ ▀█   █▄█ █ █ ▀█\n```\n\n**Alden Jin · Independent Researcher**\n\n> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · ☯ [Tao](#tao) · 🌿 [Hobbies](#hobbies) · ✉ [Contact](#contact)\n\nI turn difficult ideas into working systems, then carry them beyond the lab.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `222`, `help`.\n\nTWO IS PHILOSOPHY.\n\nLast update: Tue Sep 15 2026",
+      "body": "# Alden Jin\n\n```plain\n ▄▀█ █   █▀▄ █▀▀ █▄ █   ░░█ █ █▄ █\n █▀█ █▄▄ █▄▀ ██▄ █ ▀█   █▄█ █ █ ▀█\n```\n\n**Alden Jin · Independent Researcher**\n\n> 👤 [About](#bio) · 🧪 [Projects](#projects) · 📚 [Publications](#papers)\n> 🎨 [Works](#works) · ☯ [Tao](#tao) · 🌿 [Hobbies](#hobbies) · ✉ [Contact](#contact)\n\nI turn difficult ideas into working systems, then carry them beyond the lab.\n\n## Author\n\nAlden Jin — independent researcher and Tao enthusiast.\n\n## Easter Eggs\n\n- `pinyi` — a photograph from childhood.\n- `222` — TWO IS PHILOSOPHY.\n\n- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `222`, `help`.\n\nTWO IS PHILOSOPHY.\n\nLast update: Wed Sep 16 2026",
       "path": "index.md",
       "kind": "page",
       "apps": []

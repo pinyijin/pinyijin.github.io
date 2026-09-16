@@ -127,6 +127,30 @@ html, body {
 }
 .xterm-viewport::-webkit-scrollbar { width: 10px; }
 .xterm-viewport::-webkit-scrollbar-track { background: transparent; }
+
+.pinyi-photo {
+  max-width: min(900px, 92vw);
+  max-height: 90dvh;
+  padding: 12px;
+  border: 1px solid #999;
+  background: #fafafa;
+  color: #2e3338;
+}
+.pinyi-photo::backdrop { background: rgb(0 0 0 / 65%); }
+.pinyi-photo img {
+  display: block;
+  max-width: 100%;
+  max-height: 75dvh;
+  object-fit: contain;
+  margin: auto;
+}
+.pinyi-photo button {
+  display: block;
+  margin: 12px auto 0;
+  padding: 8px 16px;
+  font: inherit;
+  cursor: pointer;
+}
 .xterm-viewport::-webkit-scrollbar-thumb {
   background: #c0c7cf;
   border-radius: 5px;
