@@ -80,8 +80,6 @@ export class Shell {
   async start(): Promise<void> {
     this.term.onShellData((d) => this.onData(d));
     if (this.initialCommand) {
-      const { text } = this.promptFor();
-      this.term.write(text + this.initialCommand + '\r\n');
       await this.execute(this.initialCommand);
     }
     for (;;) {

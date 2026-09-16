@@ -79,7 +79,7 @@ html, body {
 
 #app { height: 100dvh; }
 #term-host { display: flex; flex-direction: column; }
-#term-screen { flex: 1; min-height: 120px; height: auto; }
+#term-screen { flex: 1 1 0; min-height: 0; height: auto; }
 .pixel-heading { flex: none; overflow: hidden; }
 .pixel-heading pre {
   font: inherit;
@@ -94,10 +94,14 @@ html, body {
 }
 .input-tools { display: flex; align-items: center; justify-content: space-between; padding-top: 8px; }
 .prompt-hint { color: #81878d; font-size: 12px; }
-.signature { border-top: 1px solid var(--border); margin-top: 12px; padding-top: 12px; font-weight: 700; letter-spacing: .12em; font-size: clamp(14px, 2vw, 20px); }
+.signature { flex: 0 0 auto; border-top: 2px solid var(--fg); margin-top: 16px; padding: 22px 0 10px; font-weight: 700; letter-spacing: .04em; font-size: clamp(23px, 4vw, 38px); line-height: 1.2; }
+#pixel-title { display: block; width: min(100%, 540px); height: auto; margin: 12px 0 24px; fill: currentColor; }
+#pixel-title rect { animation: pixel-pulse 6s ease-in-out infinite; }
+@keyframes pixel-pulse { 0%, 35%, 100% { opacity: 1; } 55% { opacity: .3; } }
 .mobile-nav, .mobile-keys { display: none; }
 @media (prefers-reduced-motion: reduce) {
   .pixel-heading pre { animation: none; }
+  #pixel-title rect { animation: none; }
 }
 @media (max-width: 640px) {
   .mobile-nav, .mobile-keys { display: flex; flex-wrap: wrap; gap: 4px; }
