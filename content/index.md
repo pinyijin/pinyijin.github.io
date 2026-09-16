@@ -12,16 +12,11 @@
 
 I turn difficult ideas into working systems, then carry them beyond the lab.
 
-## Author
+## Tao enthusiast
 
-Alden Jin — independent researcher and Tao enthusiast.
+Buddhism at heart, Taoism in the bones, Confucianism in outward conduct.
 
-## Easter Eggs
-
-- `pinyi` — a photograph from childhood.
-- `222` — TWO IS PHILOSOPHY.
-
-- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `222`, `help`.
+- This page doubles as a shell. Try: `bio`, `projects`, `papers`, `works`, `one_heart`, `tao`, `help`.
 
 TWO IS PHILOSOPHY.
 
